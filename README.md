@@ -7,4 +7,4 @@
 You can install **text-normalizer** using [Poetry](https://python-poetry.org/):
 
 ```bash
-poetry add text-normalizer
+poetry install
