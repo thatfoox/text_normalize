@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "A Python package for text normalization."
 authors = ["Fooxy"]
 
+packages = [
+    {include = "text_normalizer"}]
 [tool.poetry.dependencies]
 python = "^3.10.9"
 unidecode = "^1.3.8"
