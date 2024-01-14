@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/text_normalization_.iml" filepath="$PROJECT_DIR$/.idea/text_normalization_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/text_normalizer.iml" filepath="$PROJECT_DIR$/.idea/text_normalizer.iml" />
     </modules>
   </component>
 </project>
