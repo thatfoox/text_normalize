@@ -11,7 +11,7 @@ def render_text_to_image(text, font_path, image_size, font_size):
 
 text = "🇹 ᴛᴇꜱᴛ ᴄᴀꜱᴇ Fooxy "
 
-font_path = "ARIAL.TTF"
+font_path = "fonts/ARIAL.TTF"
 image = render_text_to_image(text, font_path, (500, 100), 30)
 image.save("image.png")  # This will display the image
 
